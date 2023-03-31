@@ -91,7 +91,9 @@ h6 {
   /* text-shadow: 0 1px 0 #ccc, 0 2px 0 black; */
 }
 
-
+.btn:hover{
+  text-decoration: none;
+}
 
 #header h2 {
   font-size: 24px;
